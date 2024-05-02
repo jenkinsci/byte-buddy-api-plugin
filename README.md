@@ -2,7 +2,7 @@
 
 Byte Buddy API Plugin
 
-This plugin provides Byte Buddy for other plugins (https://bytebuddy.net/)
+This plugin provides Byte Buddy for other plugins (https://bytebuddy.net)
 
 # Build
 
