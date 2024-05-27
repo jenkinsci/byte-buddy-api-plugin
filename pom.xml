@@ -30,7 +30,7 @@
   </scm>
 
   <properties>
-    <revision>1.14.15</revision>
+    <revision>1.14.16</revision>
     <changelist>999999-SNAPSHOT</changelist>
     <jenkins.version>2.426.3</jenkins.version>
     <gitHubRepo>jenkinsci/${project.artifactId}-plugin</gitHubRepo>
