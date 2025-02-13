@@ -17,9 +17,15 @@
   <name>Byte Buddy API Plugin</name>
   <url>https://github.com/jenkinsci/${project.artifactId}-plugin</url>
   <licenses>
+    <!-- Byte budy license -->
     <license>
-      <name>MIT License</name>
-      <url>https://opensource.org/license/mit/</url>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+    <!-- repackaged ASM license -->
+    <license>
+      <name>BSD 3-Clause ASM</name>
+      <url>https://gitlab.ow2.org/asm/asm/raw/ASM_9_7_1/LICENSE.txt</url>
     </license>
   </licenses>
   <scm>
